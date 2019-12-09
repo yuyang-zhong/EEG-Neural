@@ -14,6 +14,9 @@ Data retrieved from Zenodo, https://zenodo.org/record/2536267, licenced under CC
 ### Files Suppressed
 Contents of the raw datafiles, as well as the cleaned up data from `notebooks/data_cleaning.ipynb` named `final_data.csv`, are suppressed from git commits due to their large file sizes. You can attain the raw data using links above, and the claned-up data by running the data cleaning notebook. 
 
+### PDF Output
+The final PDF document output was generated using `nbconvert`. The PDF document is in LaTeX layout with inline iPython cells and outputs.
+
 ### Issues
 If you run into problems or bugs, please let me know by [creating an issue](https://github.com/yuyang-zhong/EEG-Neural/issues/new) in this repository.
 
