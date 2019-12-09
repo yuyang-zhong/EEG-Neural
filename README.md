@@ -5,7 +5,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2536267.svg)](https://doi.org/10.5281/zenodo.2536267)
 
 ### Overview
-A replication of Brandmeyer & Delorme (2018), with data-driven techniques. Creating new logistic regression model for classifer of expert vs. non-expert in mediation. This project is a data-analysis project assignment for Psychology/Cognitive Science C127 - Cognitive Neuroscience at UC Berkeley for Fall 2019, by Professor Jack L. Gallant.
+A replication of Brandmeyer & Delorme (2018), with data-driven techniques. Creating new supervised and unsupervised model for classifier of expert vs. non-expert labels in mediation, using EEG brain activities.
+
+This project is a data-analysis project assignment for Psychology/Cognitive Science C127 - Cognitive Neuroscience at UC Berkeley for Fall 2019, by Professor Jack L. Gallant.
 
 The original study could be found here: https://link.springer.com/article/10.1007%2Fs00221-016-4811-5
 
