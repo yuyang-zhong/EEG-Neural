@@ -1,0 +1,2 @@
+# `rawdata` Folder
+Content of this folder is suppressed by `.gitignore` due to the large file sizes. If you would like to replicate my steps in the notebooks, please download the data from Zenodo, and unzip the data into this folder. You should have a single folder here named `bidsexport` that contains everything you need.

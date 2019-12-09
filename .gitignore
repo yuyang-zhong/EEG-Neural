@@ -1,3 +1,4 @@
 .DS_Store
-rawdata/*
+rawdata/bidsexport/*
 .ipynb_checkpoints/
+final_data.csv
